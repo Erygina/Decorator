@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Декоратор</string>
+    <string name="title_behavior">Поведение</string>
+    <string name="title_design">Дизайн</string>
+    <string name="title_cat">cat</string>
+    <string name="title_enter_digit">Введите число</string>
+    <string name="title_rotate">Поворот</string>
+    <string name="title_transparent">Прозрачность</string>
+    <string name="title_border">Рамка</string>
+    <string name="title_draw_cat">Нарисовать кота</string>
+
+    <string name="title_push_notification">Push-уведомление</string>
+    <string name="title_sms">SMS</string>
+    <string name="title_email">Email</string>
+    <string name="title_get_code">Получить код</string>
+
+    <string name="channel_name">myChannel</string>
+    <string name="channel_description">myChannel</string>
+    <string name="title_code_variety">Выберете способ получения кода</string>
+    <string name="title_qr_code">QR код</string>
+</resources>

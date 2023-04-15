@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403005875865",
+    "project_id": "decorator-5f3bd",
+    "storage_bucket": "decorator-5f3bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403005875865:android:b3d8e463af2ee752e5ba08",
+        "android_client_info": {
+          "package_name": "com.example.decorator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403005875865-38uidbs9hpu16nc102qv5622mug2svff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEJ5MlpM4Xd0NiNfsp6i9W0STpwvhe_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403005875865-38uidbs9hpu16nc102qv5622mug2svff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
